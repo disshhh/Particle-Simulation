@@ -1,0 +1,15 @@
+# Ignore Visual Studio folder
+.vs/
+
+# Build files and binaries
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific and IDE settings
+*.user
+*.suo
+*.cache
+*.log
